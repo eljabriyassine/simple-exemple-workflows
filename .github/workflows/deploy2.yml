@@ -43,4 +43,4 @@ jobs:
         with:
           node-version: 18
       - name: Deploy Code
-        run: ech "deploy process is successfully"
+        run: echo "deploy process is successfully"
